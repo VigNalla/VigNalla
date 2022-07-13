@@ -1,5 +1,5 @@
-# Hi GitHub, I'm Vigneshwaran
+# Hi, I'm Vigneshwaran
 
-![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigNalla&show_icons=true&theme=radical)
+<img align='Left' width=47% src=https://github-readme-stats.vercel.app/api?username=VigNalla&show_icons=true&theme=radical /img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigNalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align='Left' width=47% src=https://github-readme-stats.vercel.app/api/top-langs/?username=VigNalla&layout=compact/img>
