@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigneshwaran Nallasamy</h1>
+<img align=right alt="Coding" width="400" src="https://st2.depositphotos.com/2971115/11696/v/450/depositphotos_116960018-stock-illustration-the-programmer-writes-code-vector.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignalla&label=Profile%20views&color=0e75b6&style=flat" alt="vignalla" /> </p>
 
 - 🌱 I’m currently learning **Oracle, AWS**
